@@ -313,7 +313,7 @@ session_start(); //start temp session until logout/browser closed
                                 <h3>MIGH-> The Best Food in it.</h3>
                                 <p>Got Hungry? Get the food you want, from our restaurants you love.
 
-								Eat what you like, where you like, when you like. Thank you for joining us.</p>
+								Eat what you like, where you like, when you like. Thank you for joining us For.</p>
                             </div>
                         </div>
                     </div>
